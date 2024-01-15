@@ -4,7 +4,7 @@ Welcome to the Speer Frontend Assignment! This project showcases a responsive an
 
 ## Live Demo
 
-Check out the live demo of the project [here](https://speerfrontend.vercel.app/inbox).
+Check out the live demo of the project [here](https://speerfrontend.vercel.app).
 
 ## Features
 
